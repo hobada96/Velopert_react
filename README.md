@@ -1,1 +1,1 @@
-# Velopert_react
+<h1>Velopert와 함께하는 모던 리엑트</h1><p>    react 기초를 다지고 이를 통해서 프로젝트 제작을 목표로 한다.</p><p>    링크 : https://react.vlpt.us/    기한 : 3/2 ~ 3/7</p>
