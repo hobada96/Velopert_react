@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d241fec7-6111-40d6-bde0-d9407d0bbebc" name="Default Changelist" comment="Add Chap10">
+    <list default="true" id="d241fec7-6111-40d6-bde0-d9407d0bbebc" name="Default Changelist" comment="Add Chap13">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/Chap13/chap13/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/Chap13/chap13/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/Chap13/chap13/src/UserList.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/Chap13/chap13/src/UserList.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -43,7 +46,7 @@
       <updated>1614647220563</updated>
       <workItem from="1614647221744" duration="400000" />
       <workItem from="1614669117322" duration="657000" />
-      <workItem from="1614731141474" duration="384000" />
+      <workItem from="1614731141474" duration="6279000" />
     </task>
     <task id="LOCAL-00001" summary="chap 9">
       <created>1614661822707</created>
@@ -66,7 +69,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614731359043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Redux Example">
+      <created>1614731690274</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614731690274</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Chap12">
+      <created>1614732134517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614732134517</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Chap13">
+      <created>1614735323725</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614735323725</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +112,9 @@
     <MESSAGE value="chap 9" />
     <MESSAGE value="Add Chap10" />
     <MESSAGE value="Chap 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chap 11" />
+    <MESSAGE value="Add Redux Example" />
+    <MESSAGE value="Add Chap12" />
+    <MESSAGE value="Add Chap13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Chap13" />
   </component>
 </project>
