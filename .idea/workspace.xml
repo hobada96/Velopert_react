@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d241fec7-6111-40d6-bde0-d9407d0bbebc" name="Default Changelist" comment="Add Chap13">
+    <list default="true" id="d241fec7-6111-40d6-bde0-d9407d0bbebc" name="Default Changelist" comment="Add Chap15">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/Chap13/chap13/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/Chap13/chap13/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/Chap13/chap13/src/UserList.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/Chap13/chap13/src/UserList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/redux/redux/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/redux/redux/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/redux/redux/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/redux/redux/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,11 @@
       <updated>1614647220563</updated>
       <workItem from="1614647221744" duration="400000" />
       <workItem from="1614669117322" duration="657000" />
-      <workItem from="1614731141474" duration="6279000" />
+      <workItem from="1614731141474" duration="7213000" />
+      <workItem from="1614772846731" duration="1830000" />
+      <workItem from="1614777195125" duration="3273000" />
+      <workItem from="1614783742961" duration="32000" />
+      <workItem from="1614820127389" duration="4000000" />
     </task>
     <task id="LOCAL-00001" summary="chap 9">
       <created>1614661822707</created>
@@ -90,7 +95,28 @@
       <option name="project" value="LOCAL" />
       <updated>1614735323725</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Chap15">
+      <created>1614737538002</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614737538002</updated>
+    </task>
+    <task id="LOCAL-00008" summary="redux exercise">
+      <created>1614778614426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1614778614426</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Chap 16">
+      <created>1614822383127</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614822383127</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +141,9 @@
     <MESSAGE value="Add Redux Example" />
     <MESSAGE value="Add Chap12" />
     <MESSAGE value="Add Chap13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Chap13" />
+    <MESSAGE value="Add Chap15" />
+    <MESSAGE value="redux exercise" />
+    <MESSAGE value="Chap 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chap 16" />
   </component>
 </project>
