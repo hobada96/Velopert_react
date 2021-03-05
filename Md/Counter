@@ -1,0 +1,1 @@
+useReducer를 이용하여서 상태 업데이트 로직 분리하기useReducer 이해- 상태 관리시 useState이외에 useReducer를 사용하면 상태업데이트 로직을 컴포넌트에서 분리 시킬수 있다.
