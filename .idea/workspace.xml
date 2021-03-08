@@ -3,14 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d241fec7-6111-40d6-bde0-d9407d0bbebc" name="Default Changelist" comment="Add Chap15``">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/todolist/mashup-todolist/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/todolist/mashup-todolist/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/todolist/mashup-todolist/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +63,8 @@
       <workItem from="1614953249880" duration="3497000" />
       <workItem from="1615162017834" duration="9327000" />
       <workItem from="1615179443531" duration="1265000" />
-      <workItem from="1615186960888" duration="559000" />
+      <workItem from="1615186960888" duration="3067000" />
+      <workItem from="1615191127999" duration="2521000" />
     </task>
     <task id="LOCAL-00001" summary="chap 9">
       <created>1614661822707</created>
@@ -189,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615187462754</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="init project setting">
+      <created>1615187541257</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1615187541257</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +228,7 @@
     <MESSAGE value="Chap21 customhook with reducer" />
     <MESSAGE value="Chap22 use Context api" />
     <MESSAGE value="add todolist project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add todolist project" />
+    <MESSAGE value="init project setting" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project setting" />
   </component>
 </project>
