@@ -62,7 +62,7 @@ function App() {
         email: ''
     });
     const [state, dispatch] = useReducer(reducer, initialState);
-    const nextId = useRef(4);
+    const nextId = useRef(5);
     const {users} = state;
 
     const onCreate = useCallback(() => {
