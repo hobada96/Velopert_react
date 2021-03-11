@@ -1,7 +1,8 @@
+import CounterContainer from './container/counterContainer'
 function App() {
   return (
       <div>
-          Hello
+          <CounterContainer/>
       </div>
   );
 }

@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="d241fec7-6111-40d6-bde0-d9407d0bbebc" name="Default Changelist" comment="Add Chap15``">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/redux/redux/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/redux/redux/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/redux/redux/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/redux/redux/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/example/redux/redux/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/example/redux/redux/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/redux/redux/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/redux/redux/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Velopert_react\example\redux\redux\src\components" />
       <recent name="C:\Velopert_react\example\Chap21\chap21\src\hooks" />
     </key>
   </component>
@@ -67,7 +70,7 @@
       <workItem from="1615248748115" duration="3288000" />
       <workItem from="1615291477239" duration="5557000" />
       <workItem from="1615386847063" duration="3262000" />
-      <workItem from="1615425147930" duration="1014000" />
+      <workItem from="1615425147930" duration="6403000" />
     </task>
     <task id="LOCAL-00001" summary="chap 9">
       <created>1614661822707</created>
@@ -223,7 +226,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615297627699</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add exercise case">
+      <created>1615426187930</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1615426187930</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add exercise case">
+      <created>1615426202160</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1615426202160</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +280,8 @@
     <MESSAGE value="add UI" />
     <MESSAGE value="Function implementation" />
     <MESSAGE value="use Api init" />
-    <option name="LAST_COMMIT_MESSAGE" value="use Api init" />
+    <MESSAGE value="add redux exercise case" />
+    <MESSAGE value="add exercise case" />
+    <option name="LAST_COMMIT_MESSAGE" value="add exercise case" />
   </component>
 </project>
